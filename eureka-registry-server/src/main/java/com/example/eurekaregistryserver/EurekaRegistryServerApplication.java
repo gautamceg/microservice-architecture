@@ -10,7 +10,7 @@ public class EurekaRegistryServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaRegistryServerApplication.class, args);
-		System.out.println(" !! App Ready !!");
+		System.out.println(" !! Eureka-Registry-Server Application Ready !!");
 	}
 
 }
